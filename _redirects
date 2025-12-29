@@ -1,0 +1,5 @@
+/* /index.html 200
+
+# Very light bot blocking (Netlify-style only; ignored by Firebase Hosting)
+# Blocks a few common scraping UAs; tune/remove if it blocks legit clients.
+/  /index.html 200!  User-agent: *
